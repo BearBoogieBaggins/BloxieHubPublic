@@ -1,22 +1,12 @@
 {
-    "ActiveKeys": [
-        {
-            "1234567890": "Avwt4PulX3DXl9TPFUxOLdvKxz",
-            "Expires": "1723089389"
-        },
-        {
-            "1234567890": "i8Wb58TLSz3EIK7LdyAKm2yELv",
-            "Expires": "1723089462"
-        }
-    ],
-    "ActiveSetTwo": [
-        {
-            "38721893729817": "fjhkdsggfjhhdsfhdjskhaf",
-            "Expires": "gfdsgfdsgfsdgfds"
+"ActiveKeys": [
+{
+"1234567890": "Avwt4PulX3DXl9TPFUxOLdvKxz",
+"Expires": "1723089389"
 },
 {
-"1234567890": "qbpOGHILtG6SROmXTvBx1dYtYT",
-"Expires": "1723091443"
-        }
-    ]
+"1234567890": "i8Wb58TLSz3EIK7LdyAKm2yELv",
+"Expires": "1723089462"
+}
+]
 }
